@@ -1,8 +1,8 @@
 ---
-title: "Test post"
+title: Test post
 date: 2025-06-15
 ---
 
 ## A Test Post
 
-Just testing out my github pages post.
+Just testing out my GitHub Pages post.
