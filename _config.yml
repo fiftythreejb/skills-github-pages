@@ -1,6 +1,8 @@
 theme: minima
+minima:
+  skin: auto
 title: Run Build Dev Github test
-author: Justin Burmeister
+author: site.githib.owner_name
 description: I'm learning about GitHub Pages
 lsi: false
 safe: true
