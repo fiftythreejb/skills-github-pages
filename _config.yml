@@ -1,6 +1,6 @@
 theme: minima
 minima:
-  skin: auto
+  skin: dark
 title: Run Build Dev Github test
 author: site.githib.owner_name
 description: I'm learning about GitHub Pages
